@@ -1,2 +1,3 @@
-# pokewin-desktop-releases
-Immutable signed release artifacts for Pokewin Desktop
+# packygg-admin-releases
+
+Immutable signed release artifacts for PackyGG Desktop.
